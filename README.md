@@ -60,35 +60,6 @@ The main goal is **early and accurate diagnosis** of Alzheimer’s, leveraging s
 
 ---
 
-## 📂 Project Structure
-```
-Alzheimers_Detection/
-│
-├── data/
-│   ├── train/
-│   ├── test/
-│   └── validation/
-│
-├── models/
-│   ├── convnext_small.pth
-│   ├── convnext_base.pth
-│
-├── scripts/
-│   ├── data_preprocessing.py
-│   ├── model_training.py
-│   ├── evaluation.py
-│
-├── results/
-│   ├── accuracy_graph.png
-│   ├── confusion_matrix.png
-│
-├── app.py                # Optional - for deployment/UI
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## ⚡ Installation & Usage
 ### **1. Clone Repository**
 ```bash
