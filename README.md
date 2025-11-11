@@ -63,8 +63,10 @@ The main goal is **early and accurate diagnosis** of Alzheimer’s, leveraging s
 ## ⚡ Installation & Usage
 ### **1. Clone Repository**
 ```bash
-git clone https://github.com/yourusername/Alzheimers-Detection.git
-cd Alzheimers-Detection
+git clone https://github.com/pradeep9408/Alzheimers-Disease-Detection-using-Deep-Learning
+.git
+cd Alzheimers-Disease-Detection-using-Deep-Learning
+
 ```
 
 ### **2. Install Dependencies**
@@ -110,9 +112,3 @@ python app.py
 - Deploy on **cloud** for real-time predictions in healthcare settings.  
 
 ---
-
-## 👨‍💻 Author
-**Pradeep [Your Full Name if needed]**  
-Deep Learning Researcher | Alzheimer’s Detection Project  
-📧 [your.email@example.com]  
-🌐 [GitHub / LinkedIn link]
